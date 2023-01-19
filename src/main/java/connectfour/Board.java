@@ -1,7 +1,4 @@
 /**
- * Name: Zaeem Farhan
- * Assignment: CIS*2430 A2
- * Date: Nov 1 2021
  * Description: This is the board class responsible for the state of the connect4 board
  */
 package connectfour;
