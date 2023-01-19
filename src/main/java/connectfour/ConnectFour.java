@@ -1,7 +1,4 @@
 /**
- * Name: Zaeem Farhan
- * Assignment: CIS*2430 A2
- * Date: Nov 1 2021
  * Description: This is the class with the main method for Connect4
  */
 package connectfour;
